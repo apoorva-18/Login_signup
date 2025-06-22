@@ -69,7 +69,7 @@ login-signup-app/
    ```bash
    python main.py
    ```
-   The API will be available at http://localhost:8000
+   The API will be available at http://localhost:8001
 
 ### 2. Frontend Setup
 
@@ -98,8 +98,8 @@ login-signup-app/
 ## API Documentation
 
 Once the backend is running, visit:
-- http://localhost:8000/docs - Interactive API documentation (Swagger UI)
-- http://localhost:8000/redoc - Alternative API documentation
+- http://localhost:8001/docs - Interactive API documentation (Swagger UI)
+- http://localhost:8001/redoc - Alternative API documentation
 
 ## Usage
 
